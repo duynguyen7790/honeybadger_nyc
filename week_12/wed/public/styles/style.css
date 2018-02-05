@@ -1,0 +1,11 @@
+body {
+    background-color: cornflowerblue;
+}
+
+div {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: red;
+    text-align: center;
+}
